@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**0xSUP3RU5ER/0xSUP3RU5ER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0x3klavya/0x3klavya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
